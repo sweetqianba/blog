@@ -97,7 +97,14 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: keep
+
+# search 站内搜索
+search:
+  path: search.json
+  field: post
+  content: true
+  format: striptags
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

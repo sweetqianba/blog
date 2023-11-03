@@ -1,0 +1,30 @@
+# blog 基本信息
+base_info:
+  title: 图开心
+  author: tokaixin
+
+# 自定义样式
+style:
+  primary_color: "orange"
+  first_screen:
+    enable: true
+    header_transparent: true
+    hitokoto: true
+  scroll:
+    progress_bar: true
+
+# TOC目录结构
+toc:
+  enable: true
+
+# 站内搜索
+local_search:
+  enable: true
+  preload: true
+
+# 代码块设置
+code_block:
+  tools: 
+    enable: true
+    style: mac
+  highlight_theme: obsidian

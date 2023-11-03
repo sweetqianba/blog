@@ -34,5 +34,7 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 ``` bash
 $ hexo deploy
 ```
-
+```js
+const test = '测试代码行'
+```
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
